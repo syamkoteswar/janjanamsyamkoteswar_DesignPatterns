@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c63cd7b7-79e1-4f2b-896c-7e5cd6504701" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/ChainofResponsibility.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/src/main/Output/log-demo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/src/main/java/Account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/src/main/java/Account/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/src/main/java/Account/Bitcoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/src/main/java/Account/Paypal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/target/classes/Account/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/target/classes/Account/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/target/classes/Account/Bitcoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/target/classes/Account/Paypal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainofResponsibility/target/classes/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mediator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Output/log-demo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChatRoomMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Mediator-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Mediator-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ChatRoom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ChatRoomMediator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/AbstractFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/Output/log-demo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Door/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Door/IronDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Door/WoodenDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Experts/Carpenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Experts/DoorFittingExpert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Experts/Welder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Factory/DoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Factory/IronDoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Factory/WoodenDoorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/AbstractFactory-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/AbstractFactory-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Door/Door.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Door/IronDoor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Door/WoodenDoor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Experts/Carpenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Experts/DoorFittingExpert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Experts/Welder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Factory/DoorFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Factory/IronDoorFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Factory/WoodenDoorFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/classes/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/AbstractFactory/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/Factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/src/main/java/Delivery/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/src/main/java/Delivery/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/src/main/java/Delivery/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/src/main/output/log-demo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Creational/Factory/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/Adapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/src/main/java/Boat/Captain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/src/main/java/Boat/FishingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/src/main/java/Boat/FishingBoatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/src/main/java/Boat/RowingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/src/main/output/log-demo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/Adapter-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/Adapter-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/classes/Boat/Captain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/classes/Boat/FishingBoat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/classes/Boat/FishingBoatAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/classes/Boat/RowingBoat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Adapter/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/Bridge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/Output/log-demo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/java/Theme/AquaTheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/java/Theme/DarkTheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/java/Theme/LightTheme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/java/Theme/Theme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/java/Webpage/About.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/java/Webpage/Careers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/java/Webpage/WebPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/Bridge-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/Bridge-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/classes/Theme/AquaTheme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/classes/Theme/DarkTheme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/classes/Theme/LightTheme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/classes/Theme/Theme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/classes/Webpage/About.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/classes/Webpage/Careers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/classes/Webpage/WebPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/classes/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Structural/Bridge/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\LENOVO\Documents\GitHub\janjanamsyamkoteswar_DesignPatterns\Behavioral\Mediator\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yu0qRVRF5rmA0oVjQjZNgGPvN5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Documents\GitHub\janjanamsyamkoteswar_DesignPatterns\Behavioral\Mediator\src\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\Documents\GitHub\janjanamsyamkoteswar_DesignPatterns\Behavioral\Mediator\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.Mediator-1.0-SNAPSHOT-jar-with-dependencies.jar">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Mediator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mediator-1.0-SNAPSHOT-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Mediator-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Mediator-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c63cd7b7-79e1-4f2b-896c-7e5cd6504701" name="Default Changelist" comment="" />
+      <created>1583777361357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583777361357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Project_Structure" timestamp="1583777476985">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1583777476985" />
+    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1583777692466">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1583777692466" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1583778053629">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583778053629" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1583778053629">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1583778053629" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1583778053629">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1583778053629" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1583778053629">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1583778053629" />
+  </component>
+</project>

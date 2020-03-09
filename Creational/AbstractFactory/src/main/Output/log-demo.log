@@ -1,0 +1,40 @@
+2020-03-09 22:03:216 INFO  WoodenDoorFactory:14 - Enter into makeDoor() in WoodenDoorFactory
+2020-03-09 22:03:218 INFO  WoodenDoorFactory:15 - Exited from makeDoor() in WoodenDoorFactory
+2020-03-09 22:03:218 INFO  WoodenDoor:11 - Enter into getDescription() in WoodenDoor
+2020-03-09 22:03:219 INFO  WoodenDoor:12 - Exited from getDescription() in WoodenDoor
+2020-03-09 22:03:219 INFO  Main:12 - I am a wooden door
+2020-03-09 22:03:219 INFO  WoodenDoorFactory:21 - Enter into makeFittingExpert() in WoodenDoorFactory
+2020-03-09 22:03:220 INFO  WoodenDoorFactory:22 - Exited from makeFittingExpert() in WoodenDoorFactory
+2020-03-09 22:03:220 INFO  Carpenter:11 - Enter into getDescription() in Carpenter
+2020-03-09 22:03:221 INFO  Carpenter:12 - Exited from getDescription() in Carpenter
+2020-03-09 22:03:233 INFO  Main:13 - I can only fit wooden doors
+2020-03-09 22:03:234 INFO  IronDoorFactory:14 - Enter into makeDoor() in IronDoorFactory
+2020-03-09 22:03:234 INFO  IronDoorFactory:15 - Exited from makeDoor() in IronDoorFactory
+2020-03-09 22:03:235 INFO  IronDoor:11 - Enter into getDescription() in IronDoor
+2020-03-09 22:03:235 INFO  IronDoor:12 - Exited from getDescription() in IronDoor
+2020-03-09 22:03:235 INFO  Main:15 - I am a Iron door
+2020-03-09 22:03:236 INFO  IronDoorFactory:21 - Enter into makeFittingExpert() in IronDoorFactory
+2020-03-09 22:03:236 INFO  IronDoorFactory:22 - Exited from makeFittingExpert() in IronDoorFactory
+2020-03-09 22:03:237 INFO  Welder:11 - Enter into getDescription() in Welder
+2020-03-09 22:03:237 INFO  Welder:12 - Exited from getDescription() in Welder
+2020-03-09 22:03:237 INFO  Main:16 - I can only fit iron doors
+2020-03-09 22:03:712 INFO  WoodenDoorFactory:14 - Enter into makeDoor() in WoodenDoorFactory
+2020-03-09 22:03:714 INFO  WoodenDoorFactory:15 - Exited from makeDoor() in WoodenDoorFactory
+2020-03-09 22:03:714 INFO  WoodenDoor:11 - Enter into getDescription() in WoodenDoor
+2020-03-09 22:03:714 INFO  WoodenDoor:12 - Exited from getDescription() in WoodenDoor
+2020-03-09 22:03:714 INFO  Main:12 - I am a wooden door
+2020-03-09 22:03:715 INFO  WoodenDoorFactory:21 - Enter into makeFittingExpert() in WoodenDoorFactory
+2020-03-09 22:03:715 INFO  WoodenDoorFactory:22 - Exited from makeFittingExpert() in WoodenDoorFactory
+2020-03-09 22:03:715 INFO  Carpenter:11 - Enter into getDescription() in Carpenter
+2020-03-09 22:03:715 INFO  Carpenter:12 - Exited from getDescription() in Carpenter
+2020-03-09 22:03:716 INFO  Main:13 - I can only fit wooden doors
+2020-03-09 22:03:716 INFO  IronDoorFactory:14 - Enter into makeDoor() in IronDoorFactory
+2020-03-09 22:03:716 INFO  IronDoorFactory:15 - Exited from makeDoor() in IronDoorFactory
+2020-03-09 22:03:717 INFO  IronDoor:11 - Enter into getDescription() in IronDoor
+2020-03-09 22:03:717 INFO  IronDoor:12 - Exited from getDescription() in IronDoor
+2020-03-09 22:03:717 INFO  Main:15 - I am a Iron door
+2020-03-09 22:03:717 INFO  IronDoorFactory:21 - Enter into makeFittingExpert() in IronDoorFactory
+2020-03-09 22:03:717 INFO  IronDoorFactory:22 - Exited from makeFittingExpert() in IronDoorFactory
+2020-03-09 22:03:718 INFO  Welder:11 - Enter into getDescription() in Welder
+2020-03-09 22:03:718 INFO  Welder:12 - Exited from getDescription() in Welder
+2020-03-09 22:03:718 INFO  Main:16 - I can only fit iron doors
